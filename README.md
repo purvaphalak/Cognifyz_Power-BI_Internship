@@ -1,6 +1,6 @@
 # Cognifyz_Power-BI_-Internship
 
-## ✨ TASK - 1 : Data Explorization and Summary
+## ✨ TASK - 1 : Data Exploration and Summary
 
  ### ➡️ Objective: 
  Understanding and summarizing key statistics in the dataset.
